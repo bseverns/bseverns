@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PlantCare//Plant+Yard Reminders//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:0358b5e1-65b6-460c-82cc-4c5703e27430-monthly-checkin@plant-care
+DTSTAMP:20251106T142257Z
+SUMMARY:Monthly plant + yard check-in
+DESCRIPTION:Scan the Monthly_Rhythm.pdf; flush salts if needed, inspect for pests, rotate plants, and deep-water young trees if the month’s note calls for it.
+DTSTART;TZID=America/Chicago:20251206T100000
+RRULE:FREQ=MONTHLY;BYDAY=SA;BYSETPOS=1
+END:VEVENT
+BEGIN:VEVENT
+UID:4f85617a-a141-41b1-8bdf-e65c7e38b248-spring-shift@plant-care
+DTSTAMP:20251106T142257Z
+SUMMARY:Spring shift: wake up plants + trees
+DESCRIPTION:Check for repot candidates, start light feeding indoors, inspect yard trees for winter damage, refresh mulch, and start deep-watering young trees during dry spells.
+DTSTART;TZID=America/Chicago:20250315T190000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYMONTHDAY=15
+END:VEVENT
+BEGIN:VEVENT
+UID:095ea1e1-4847-4096-b1b4-fb0900241669-summer-shift@plant-care
+DTSTAMP:20251106T142257Z
+SUMMARY:Summer shift: heat, airflow, deep watering
+DESCRIPTION:Dial in airflow indoors, watch basil and Calathea closely, and ensure young trees get deep, infrequent soaks during hot, dry weeks.
+DTSTART;TZID=America/Chicago:20250615T190000
+RRULE:FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=15
+END:VEVENT
+BEGIN:VEVENT
+UID:87dd98ff-1e0a-4f8a-964d-28a1c319ff0b-fall-shift@plant-care
+DTSTAMP:20251106T142257Z
+SUMMARY:Fall shift: taper feeding, set buds, water before freeze
+DESCRIPTION:Begin Christmas cactus bud-set routine, taper indoor fertilizer, and deep-water young trees until the soil begins to freeze.
+DTSTART;TZID=America/Chicago:20250915T190000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYMONTHDAY=15
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e30eb7-d411-4298-8c00-b77e09e1a3d2-winter-shift@plant-care
+DTSTAMP:20251106T142257Z
+SUMMARY:Winter shift: low light, dry air, frozen soil
+DESCRIPTION:Cluster plants in brightest windows, pause fertilizer, and on mild days with thawed ground consider a deep drink for young evergreens and crabapples if it’s been dry.
+DTSTART;TZID=America/Chicago:20251201T190000
+RRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=1
+END:VEVENT
+END:VCALENDAR
