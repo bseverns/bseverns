@@ -404,3 +404,243 @@ When you next revise this codex:
 
 You are not obligated to keep any of this.  
 You are invited to keep **just enough** to make the next version more honest.
+
+## 6 · EMBODIED KNOWING (OFF-SCREEN PRACTICE)
+
+Words are not the only way the system speaks. The body keeps logs too.
+
+### 6.1 · Embodied Glitch Walk
+
+**Why this exists**  
+To notice where systems live in your muscles, posture, and routes—not only in your notes and files.
+
+**When to use it**  
+- When you are stuck in a purely conceptual loop.  
+- When decisions feel abstract, but your body feels heavy, wired, or numb.
+
+**Practice**  
+▢ Step 1: Choose a small route you know well.  
+- Example: desk → kitchen → bathroom → hallway → desk.  
+
+▢ Step 2: Walk it **as slowly as you can** once.  
+- Each time you are forced to adapt (step over cable, twist around chair, bend under shelf), quietly name a “glitch note” in your head.  
+  - “Trip point.”  
+  - “Neck crank.”  
+  - “Eye squeeze at bright screen.”
+
+▢ Step 3: When you return, write down only the **three glitch notes you still remember**.  
+- Next to each, note:  
+  - “This is caused by: ________.”  
+  - “I could change this by: ________ (or decide not to).”
+
+**Aftercare / Reflection**  
+- What did your body know that your schedule did not?  
+- Is there one small physical repair you can make this week (reroute a cable, move a light, change a chair) as a systems intervention?
+
+✂︎ **TEAR LINE**  
+Tear off one glitch note you are *not* ready to fix. Let the page live with that gap.
+
+
+---
+
+## 7 · ANTI-README / ANTI-INSTRUCTION MODES
+
+Sometimes clarity becomes armor. These practices rehearse opacity and trust.
+
+### 7.1 · The Piece Without Notes
+
+**Why this exists**  
+To make at least one work per season that does **not** depend on your language to matter.
+
+**When to use it**  
+- Once per season, when you feel the urge to explain a thing into safety.
+
+**Practice**  
+▢ Step 1: Make a small work (sound, object, script, performance, patch).  
+▢ Step 2: Do **not** write instructions, wall text, README, or caption.  
+▢ Step 3: Show it to at least one person.  
+- If they ask, “What is this?”, answer only with:  
+  - “What did you notice?” or  
+  - “What did it do to you?”
+
+**Aftercare / Reflection**  
+- In the Codex, log:  
+  - “Piece without notes on ________.”  
+  - “Most surprising reaction: __________________.”  
+- Do *not* go back and “fix” the piece with retroactive explanation.
+
+---
+
+### 7.2 · Instruction Fast (24 Hours)
+
+**Why this exists**  
+To feel your own dependence on frames, disclaimers, and context-setting.
+
+**When to use it**  
+- On a low-stakes studio day.  
+- When you catch yourself over-explaining everything.
+
+**Practice**  
+▢ Step 1: Declare a 24-hour “instruction fast.”  
+- You may answer questions, but you may not preface or pre-explain your work.  
+
+▢ Step 2: If you feel compelled to explain, write the explanation **privately** in the Codex instead of saying it aloud.
+
+▢ Step 3: At the end of the 24 hours, read what you wrote.
+
+**Aftercare / Reflection**  
+- Which explanations were truly needed?  
+- Which were about protecting yourself rather than the other person?
+
+✂︎ **TEAR LINE**  
+Tear off one written explanation you decide no one actually needed and compost it.
+
+
+---
+
+## 8 · POROUS EDGES (CO-AUTHORSHIP)
+
+This codex does not have to speak in a single voice.
+
+### 8.1 · Co-Author Margin
+
+**Why this exists**  
+To let other hands and minds leave marks on your practice document.
+
+**When to use it**  
+- When you work with a collaborator, student, or co-teacher.  
+- When you feel the Codex getting too “sealed.”
+
+**Practice**  
+▢ Step 1: Choose one page you’re willing to open.  
+▢ Step 2: Hand it to someone else with a simple prompt:  
+- “Mark what confuses you.”  
+- “Underline what feels alive.”  
+- “Cross out what feels false.”
+
+▢ Step 3: Do not defend or explain while they mark.
+
+**Aftercare / Reflection**  
+- Note one change you’ll make **because of** their marks.  
+- Note one thing you will stubbornly keep, and why.
+
+---
+
+### 8.2 · Draft as Offering
+
+**Why this exists**  
+To practice letting go of control over how work travels.
+
+**When to use it**  
+- When you have a half-finished thing you’re clinging to.
+
+**Practice**  
+▢ Step 1: Choose a draft (audio, code, syllabus, diagram).  
+▢ Step 2: Send it to one person with a single line:  
+- “You may keep, alter, or ignore this entirely.”  
+
+▢ Step 3: Do not follow up unless they initiate.
+
+**Aftercare / Reflection**  
+- Log whether anything came back.  
+- Honor that “no response” is also data about how work moves (or doesn’t).
+
+
+---
+
+## 9 · EMOTIONAL WEATHER
+
+Not everything has to route through critique or productivity. Some things are just weather.
+
+### 9.1 · Inner Weather Report
+
+**Why this exists**  
+To register feeling without immediately weaponizing it into output.
+
+**When to use it**  
+- Once per week, at a consistent time.  
+- After an especially charged session (good or bad).
+
+**Practice**  
+▢ Step 1: Title a page: **WEATHER – [SEASON / YEAR]**.  
+▢ Step 2: Once a week, write three lines:  
+- Sky: one word for how you feel overall.  
+- Wind: one sentence your body keeps saying (e.g., “I’m tired,” “I want to stop,” “I want to keep going”).  
+- Pressure: one situation that is bearing down on you (no analysis).
+
+**Aftercare / Reflection**  
+- At the end of a season, scan the page.  
+- Circle any phrases that keep returning.  
+- Ask gently: “Does any of this want a system change, or just rest?”
+
+
+---
+
+### 9.2 · System–Weather Crossfade
+
+**Why this exists**  
+To notice when your internal weather is caused by the systems you’ve built.
+
+**When to use it**  
+- When your Inner Weather Report repeats the same word three times or more.
+
+**Practice**  
+▢ Step 1: Take one repeated word (e.g., “overwhelmed,” “flat,” “wired”).  
+▢ Step 2: Ask:  
+- “Which system in my life is amplifying this?”  
+- “Which system is softening it?”
+
+▢ Step 3: Write one tiny design nudge for each:  
+- “Turn this knob down by: _________.”  
+- “Protect this buffer by: _________.”
+
+**Aftercare / Reflection**  
+- Treat these as experiments, not verdicts.  
+- Revisit after a month to see if anything changed.
+
+
+---
+
+## 10 · THE BINDER INSTRUMENT (MN42 / DICELOOP / ETC.)
+
+The binder is not just storage. It can be a rig: a low-cost, reconfigurable instrument.
+
+### 10.1 · Binder Layout
+
+**Why this exists**  
+To give physical form to the practice: a portable console that can hold MN42, DiceLoop, and whatever comes next.
+
+**When to use it**  
+- When printing this Codex.  
+- When a project graduates from “idea” to “ongoing instrument.”
+
+**Practice**  
+▢ Step 1: Choose a binder that feels like gear, not just admin.  
+- Tabs (suggested):  
+  - **CODEX**  
+  - **INSTRUMENTS** (MN42, DiceLoop, future rigs)  
+  - **PROJECT LOGS**  
+  - **COMPOST**  
+  - **FIELD NOTES**
+
+▢ Step 2: Under **INSTRUMENTS**, give each instrument a mini-section:  
+- One page: “What this instrument is trying to do.”  
+- One page: “How this instrument fails gracefully.”  
+- One page: patches / settings you actually use.
+
+▢ Step 3: For **DiceLoop** in particular (as low-cost “next instrument”):  
+- Make a simple grid page:  
+  - Columns = parameters (tempo band, texture, density, register, effect).  
+  - Rows = dice results (1–6).  
+- When you roll, you “play the binder” by following the row for each parameter.  
+- Mark especially good rolls with a small ✳ next to the row.
+
+**Aftercare / Reflection**  
+- Once a month, flip the **INSTRUMENTS** tab:  
+  - Circle one setting / patch that keeps returning.  
+  - Cross out one that never gets used.  
+- Let the binder show you which instruments are alive and which are ready for compost.
+
+✂︎ **TEAR LINE**  
+When an instrument is officially retired, move its pages to **COMPOST** with a one-line obituary:
+> “This instrument taught me: __________ and is now returned to parts.”
