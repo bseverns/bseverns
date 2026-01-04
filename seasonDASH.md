@@ -20,17 +20,22 @@ You can rewrite this table anytime without it “breaking” anything else.
 ## 1 · Links to Deeper Pages
 
 - **CODEX OF PRACTICE**  
+  [CODEX-PRACTICE.md](CODEX-PRACTICE.md)  
   *(core document; systems, seasonal logics, sideways modules)*
 
 - **PROJECT FIELD BINDINGS**  
-  - `PROJECT CARD · I HOPE THE SKY WILL STILL TAKE US`  
-  - `PROJECT CARD · MN42 (MOARkNOBS-42)`  
-  - `PROJECT CARD · HOME PRINTLAB SETUP`
+  - [PROJECT CARD · I HOPE THE SKY WILL STILL TAKE US.md](<PROJECT CARD · I HOPE THE SKY WILL STILL TAKE US.md>)  
+  - [PROJECT CARD · MN42 (MOARkNOBS-42).md](<PROJECT CARD · MN42 (MOARkNOBS-42).md>)  
+  - [PROJECT CARD · HOME PRINTLAB SETUP.md](<PROJECT CARD · HOME PRINTLAB SETUP.md>)
+
+- **PROJECT FIELD BINDINGS (Existing files)**  
+  - [workP.md](workP.md) — print-surface edition of the Codex  
+  - [Part107_FPV_Winter_Packet_Ben/Part107_FPV_Winter_Packet.md](Part107_FPV_Winter_Packet_Ben/Part107_FPV_Winter_Packet.md) — winter flight packet  
+  - [plant-seasonal-care/README.md](plant-seasonal-care/README.md) — seasonal care index
 
 - **WINTER FIELD KIT**  
+  [WINTER-FIELD-KIT.md](WINTER-FIELD-KIT.md)  
   *(seasonal conditions, projects in motion, interludes, material practices)*
-
-(Here you can add actual links/paths once these files live in your repo.)
 
 ---
 
