@@ -27,4 +27,4 @@ Working on Now: MN42 AFE finish • SeedBox handshake/examples • Repair Studio
 
 Issues -> DMs • PRs welcome • [bseverns.github.io](https://bseverns.github.io) • [@bseverns](https://github.com/bseverns)  
 
-_Last updated: 2025-10-27._
+_Last updated: 2026-01-04._
