@@ -1,0 +1,27 @@
+{
+  "course_title": "Your Course Name",
+  "subtitle": "Roster",
+  "doc_title": "Roster \u2014 Your Course Name",
+  "roster_size": 18,
+  "columns": [
+    "Milestone 1",
+    "Milestone 2",
+    "Milestone 3"
+  ],
+  "legend_title": "Legend",
+  "legend_items": [
+    {
+      "label": "Milestone 1",
+      "text": "What it means"
+    },
+    {
+      "label": "Milestone 2",
+      "text": "What it means"
+    },
+    {
+      "label": "Milestone 3",
+      "text": "What it means"
+    }
+  ],
+  "feedback_script": "Glow (what\u2019s working) + Grow (one next step) + Choice (pick a direction)"
+}

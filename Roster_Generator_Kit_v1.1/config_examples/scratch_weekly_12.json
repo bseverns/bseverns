@@ -1,0 +1,72 @@
+{
+  "course_title": "Scratch Game Studio",
+  "subtitle": "Weekly Checkpoint Roster (12 weeks)",
+  "doc_title": "Roster \u2014 Scratch Game Studio (Weekly)",
+  "roster_size": 18,
+  "columns": [
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6",
+    "W7",
+    "W8",
+    "W9",
+    "W10",
+    "W11",
+    "W12"
+  ],
+  "legend_title": "Weekly focus (quick legend)",
+  "legend_items": [
+    {
+      "label": "W1",
+      "text": "Save + green flag works"
+    },
+    {
+      "label": "W2",
+      "text": "Animation (costumes + timing)"
+    },
+    {
+      "label": "W3",
+      "text": "Controls + score/collectibles"
+    },
+    {
+      "label": "W4",
+      "text": "Lives + hazards + reset"
+    },
+    {
+      "label": "W5",
+      "text": "Win condition (Level 1 complete)"
+    },
+    {
+      "label": "W6",
+      "text": "Levels (room/backdrop switching)"
+    },
+    {
+      "label": "W7",
+      "text": "Cutscene (freeze/unfreeze + story moment)"
+    },
+    {
+      "label": "W8",
+      "text": "Level 2 + new mechanic"
+    },
+    {
+      "label": "W9",
+      "text": "Audio/UI polish (optional)"
+    },
+    {
+      "label": "W10",
+      "text": "Balance + clarity"
+    },
+    {
+      "label": "W11",
+      "text": "Playtest + debug (bug card)"
+    },
+    {
+      "label": "W12",
+      "text": "Publish + showcase"
+    }
+  ],
+  "feedback_script": "Glow + Grow + Choice"
+}

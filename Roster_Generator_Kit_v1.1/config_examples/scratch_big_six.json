@@ -1,0 +1,42 @@
+{
+  "course_title": "Scratch Game Studio",
+  "subtitle": "Big Six Milestones Roster",
+  "doc_title": "Roster \u2014 Scratch Game Studio (Big Six)",
+  "roster_size": 18,
+  "columns": [
+    "Save",
+    "Controls",
+    "L1 Goal",
+    "Cutscene",
+    "Level 2",
+    "Full Run"
+  ],
+  "legend_title": "Milestone legend",
+  "legend_items": [
+    {
+      "label": "Save",
+      "text": "named correctly + File \u2192 Save now"
+    },
+    {
+      "label": "Controls",
+      "text": "player moves predictably"
+    },
+    {
+      "label": "L1 Goal",
+      "text": "clear win condition for Level 1"
+    },
+    {
+      "label": "Cutscene",
+      "text": "story moment plays between rooms"
+    },
+    {
+      "label": "Level 2",
+      "text": "second playable room exists"
+    },
+    {
+      "label": "Full Run",
+      "text": "start \u2192 L1 \u2192 cutscene \u2192 L2 \u2192 ending"
+    }
+  ],
+  "feedback_script": "Glow (what\u2019s working) + Grow (one next step) + Choice (story / challenge / polish)"
+}
