@@ -7,7 +7,7 @@ This is my studio bench: a public set of notebooks & kits, field notes, and smal
 - Playful rigor • Open hardware • Repair culture   
 - Humans first, least data, consent by design — [PRIVACY & ETHICS](https://github.com/bseverns/bseverns.github.io/blob/main/PRIVACY_ETHICS.md)
 
-Working on Now: MN42 AFE finish • SeedBox handshake/examples • Repair Studio + fabDoc scaffolding
+Working on Now: MN42 board prototype finish • Horizon VST multi-plstform build • ClassHub deploy/testing
 
 Issues -> DMs • PRs welcome • [bseverns.github.io](https://bseverns.github.io) • [@bseverns](https://github.com/bseverns)  
 
