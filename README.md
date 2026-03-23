@@ -8,7 +8,7 @@ This is not a polished product site, a corporate knowledge base, or a shrine to 
 **Playful rigor • Open hardware • Repair culture**  
 **Humans first • least data • consent by design**
 
-See also: [**PRIVACY & ETHICS**](https://github.com/bseverns/privacy-and-ethics)
+See also: [**PRIVACY & ETHICS**](https://github.com/bseverns.github.io/privacy-and-ethics)
 
 ## Working on now
 - MN42 board prototype finish / test
