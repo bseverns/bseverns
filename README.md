@@ -15,6 +15,7 @@ See also: [**Privacy & Ethics**](https://github.com/bseverns/bseverns.github.io/
 - MN42 board prototype finish / test
 - Horizon VST multi-platform build
 - ClassHub deploy / testing
+- MemoryEngine inital deploy
 
 ## Contact
 Issues -> DMs • PRs welcome  
